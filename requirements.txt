@@ -1,0 +1,40 @@
+# =========================
+# Core Scientific Libraries
+# =========================
+numpy>=1.26.0
+scikit-learn>=1.4.1
+networkx>=3.2.1
+faiss-cpu>=1.12.0
+torch>=2.6.0
+
+# =========================
+# NLP and Embeddings
+# =========================
+spacy>=3.8.7
+fastcoref>=2.1.6
+transformers>=4.54.1
+sentence-transformers>=5.0.0
+wordfreq>=3.1.1
+rank-bm25>=0.2.2
+flashtext>=2.7
+unidecode>=1.3.8
+pyahocorasick>=2.2.0
+
+# =========================
+# API and Async Tools
+# =========================
+aiohttp>=3.10.10
+requests>=2.32.3
+openai>=1.71.0
+pyyaml>=6.0.1
+tqdm>=4.67.1
+
+# =========================
+# Data Models and Validation
+# =========================
+pydantic>=2.11.1
+
+# =========================
+# Utility Libraries
+# =========================
+typing-extensions>=4.14.1
